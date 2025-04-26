@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/crc-prognosis-model/mlruns/0/92fcd1d93f3f42ff97a55528d7f30e8e/artifacts
+end_time: 1745510103861
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92fcd1d93f3f42ff97a55528d7f30e8e
+run_name: dapper-cow-64
+run_uuid: 92fcd1d93f3f42ff97a55528d7f30e8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745510092883
+status: 3
+tags: []
+user_id: sals

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/crc-prognosis-model/mlruns/0/d24f9c587431435d82080e56c0bc69c9/artifacts
+end_time: 1745674771156
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d24f9c587431435d82080e56c0bc69c9
+run_name: nebulous-seal-980
+run_uuid: d24f9c587431435d82080e56c0bc69c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745674759778
+status: 3
+tags: []
+user_id: sals

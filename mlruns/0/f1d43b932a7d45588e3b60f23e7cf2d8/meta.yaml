@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/crc-prognosis-model/mlruns/0/f1d43b932a7d45588e3b60f23e7cf2d8/artifacts
+end_time: 1745675850375
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1d43b932a7d45588e3b60f23e7cf2d8
+run_name: whimsical-bat-7
+run_uuid: f1d43b932a7d45588e3b60f23e7cf2d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745675839301
+status: 3
+tags: []
+user_id: sals

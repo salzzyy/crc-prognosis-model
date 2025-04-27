@@ -3,6 +3,15 @@
 <p align="center"> <img src="https://img.shields.io/badge/Python-3.9-blue.svg" alt="Python Badge"/> <img src="https://img.shields.io/badge/MLOps-Kubeflow-informational" alt="Kubeflow Badge"/> <img src="https://img.shields.io/badge/MLflow-Tracking-orange" alt="MLflow Badge"/> <img src="https://img.shields.io/badge/Docker-Containerization-blue" alt="Docker Badge"/> <img src="https://img.shields.io/badge/Scikit--learn-Modeling-green" alt="Scikit-learn Badge"/> <img src="https://img.shields.io/badge/Built%20with-%E2%9D%A4-red" alt="Love Badge"/> </p>
 
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Mlflow_logo.png" alt="MLflow" width="50" /> 
+<img src="https://raw.githubusercontent.com/DagsHub/brand-assets/main/logos/dagshub-logo.svg" alt="DagsHub" width="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Kubeflow-logo.png" alt="Kubeflow" width="50" />
+<img src="https://avatars.githubusercontent.com/u/21312988?s=200&v=4" alt="Minikube" width="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Kubernetes_Logo.png" alt="kubectl" width="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker" width="50" />
+<img src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png" alt="DockerHub" width="50" />
+
+
 
 **Use Case**
 * This project is designed to predict Colorectal Cancer (CRC) patient survival using machine learning models.
